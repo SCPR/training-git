@@ -37,3 +37,4 @@ Assuming there is already a master branch going on, the general steps to follow:
     * amend the commit message to include anything helpful
 1. look at `git status` again and make sure it's only ahead by 1 commit
 1. push to master `git push`
+1. (optional) delete your feature branch: `git branch -d [branch name]`
